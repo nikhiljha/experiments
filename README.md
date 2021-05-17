@@ -7,3 +7,7 @@ Hi! This repository is where I'm going to put short fun things I made that are p
 The DVD logo bouncing around your screen, but in Rust. RESF Approved.
 
 <img src="./bouncydvd/preview.gif" height="256">
+
+## hmmm
+
+A rust program that uses... an interesting trick... in order to print "Hello World".

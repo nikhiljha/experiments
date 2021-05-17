@@ -1,0 +1,8 @@
+[package]
+name = "hmmmm"
+version = "0.1.0"
+authors = ["Nikhil Jha <mail@nikhiljha.com>"]
+edition = "2018"
+
+[dependencies]
+tempfile = "3.2.0"
