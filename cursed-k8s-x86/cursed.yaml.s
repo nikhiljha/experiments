@@ -35,5 +35,5 @@ spec:
     kube9:
       syscall
       mov   $0x02000001, %rax
-      xor   $0, %rdi
+      xor   %rdi, %rdi
       syscall
